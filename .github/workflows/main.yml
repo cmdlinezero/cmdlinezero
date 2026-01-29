@@ -20,4 +20,4 @@ jobs:
           # Replace with your actual GCS bucket URL for the index.xml
           feed_list: "https://richrose.dev/index.xml"
           max_post_count: 5
-          readme_path: "profile/README.md"
+          readme_path: "README.md"
