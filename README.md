@@ -30,11 +30,11 @@ Visit: https://code.cmdlinezero.dev
 ## ✍️ The Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [System_Analytics](https://richrose.dev/analytics/)
 - [Nix Zellij](https://richrose.dev/posts/linux/nix/nix-zellij/)
 - [Nix Tmux](https://richrose.dev/posts/linux/nix/nix-tmux/)
 - [Python Workout 2nd Ed](https://richrose.dev/posts/training/books/review-python-workbook/)
-- [Certified Kubernetes Administrator &lpar;CKA&rpar; Exam](https://richrose.dev/posts/training/exams/cka/review-ace-cka/)
-- [Nix Unattended](https://richrose.dev/posts/linux/nix/nix-unattended/)
+- [Acing the CKA Exam 2nd Edition](https://richrose.dev/posts/training/books/review-ace-cka/)
 <!-- BLOG-POST-LIST:END -->
 
 Visit: https://blog.cmdlinezero.dev
