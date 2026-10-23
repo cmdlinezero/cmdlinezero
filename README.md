@@ -31,10 +31,10 @@ Visit: https://code.cmdlinezero.dev
 
 <!-- BLOG-POST-LIST:START -->
 - [Host a static website &lpar;gcloud&rpar;](https://richrose.dev/posts/cloud/google-cloud/gcp-host-static-v2/)
+- [The Divide and Conquer Loop: Reliable Coding with AI](https://richrose.dev/guides/ai/divide-conquer/)
 - [Bash Command Substitution](https://richrose.dev/posts/linux/command-substitution/)
 - [System_Analytics](https://richrose.dev/analytics/)
 - [Nix Ollama with Zellij](https://richrose.dev/posts/linux/nix/nix-ollama/)
-- [Nix Zellij](https://richrose.dev/posts/linux/nix/nix-zellij/)
 <!-- BLOG-POST-LIST:END -->
 
 Visit: https://blog.cmdlinezero.dev
